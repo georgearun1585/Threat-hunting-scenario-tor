@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Arun George
-- **Author Contact**: linkedin.com/in/georgearun1585
+- **Author Contact**: www.linkedin.com/in/georgearun1585
 - **Date**: November 24, 2025
 
 ## Validated By:
